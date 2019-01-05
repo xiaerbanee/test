@@ -9,3 +9,5 @@
  git commit -m "first commit"
  git remote add origin "git@github.com:xiaerbanee/test.git"
  git push -u origin master
+
+ Update this file, then push but no public key file in github.com
